@@ -1,0 +1,4 @@
+#Mon Jun 07 12:51:48 EET 2021
+base.0=F\:\\food_delivery\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
